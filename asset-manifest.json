@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/pledge/static/css/main.b5311467.css",
-    "main.js": "/pledge/static/js/main.23ba5e06.js",
+    "main.js": "/pledge/static/js/main.75e9ca99.js",
     "index.html": "/pledge/index.html",
     "main.b5311467.css.map": "/pledge/static/css/main.b5311467.css.map",
-    "main.23ba5e06.js.map": "/pledge/static/js/main.23ba5e06.js.map"
+    "main.75e9ca99.js.map": "/pledge/static/js/main.75e9ca99.js.map"
   },
   "entrypoints": [
     "static/css/main.b5311467.css",
-    "static/js/main.23ba5e06.js"
+    "static/js/main.75e9ca99.js"
   ]
 }
